@@ -84,5 +84,5 @@ Go to the project directory
 
 Final output after processing the files
 
-![alt text](https://github.com/prathameshramane/niit-assignment/blob/main/image.jpg?raw=true)
-![alt text](https://github.com/prathameshramane/niit-assignment/blob/main/image.jpg?raw=true)
+![alt text](https://github.com/prathameshramane/niit-assignment/blob/main/images/1.png?raw=true)
+![alt text](https://github.com/prathameshramane/niit-assignment/blob/main/images/2.png?raw=true)

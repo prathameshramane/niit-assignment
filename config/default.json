@@ -1,0 +1,7 @@
+{
+    "INPUT_FILE_DIR": "./input",
+    "OUTPUT_FILE_DIR": "./output",
+    "TEMP_INFO": "./temp-info.json",
+    "SIZE": 10,
+    "INTERVAL": 300000
+}
